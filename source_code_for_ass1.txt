@@ -1,0 +1,7 @@
+int a;
+float b,c;
+a=10;
+b=20.1;
+c=a+b;
+
+return c;
